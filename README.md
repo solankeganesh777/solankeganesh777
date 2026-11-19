@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solankeganesh777
+- 👋 Hi, I’m Ganesh Solanke
 - 👀 I’m interested in Data Science, AI, DL and ML areas
 - 🌱 I’m currently learning advanced ML
 - 💞️ I’m looking to collaborate on any data science topic.
